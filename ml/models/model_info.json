@@ -1,0 +1,17 @@
+{
+  "algorithm": "Random Forest",
+  "mae_minutes": 7.89,
+  "r2_score": 0.6419,
+  "features": [
+    "ward_tier",
+    "total_items",
+    "num_distinct",
+    "order_hour",
+    "day_of_week",
+    "is_peak_hour",
+    "is_weekend",
+    "subtotal"
+  ],
+  "training_samples": 424,
+  "trained_at": "2026-04-21T19:04:24.537126"
+}
